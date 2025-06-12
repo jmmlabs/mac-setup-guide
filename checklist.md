@@ -1,5 +1,5 @@
-- [x] Install Obsidian
-	- [x] Sync Vault to icloud
+- [ ] Install Obsidian
+	- [ ] Sync Vault to icloud
 - [ ] Install [Ledger Live](https://www.ledger.com/ledger-live) 
 - [ ] Finder
 	- [ ] Open Desktop
