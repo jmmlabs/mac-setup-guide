@@ -97,6 +97,7 @@
 - [ ] Download [Telegram](https://desktop.telegram.org/)
 	- [ ] No auto downloads
 	- [ ] 95% view
+	- [ ] Other settings for notifications and sound
 - [ ] Download [VLC](https://www.videolan.org/vlc/)
 - [ ] Desktop snap to grid
 - [ ] Install ChatGPT
